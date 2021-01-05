@@ -1,5 +1,5 @@
 version: 2
---sources frow RAW db
+# sources frow RAW db
 sources:
     - name: jaffle_shop
       description: A clone of a Postgres application database.
